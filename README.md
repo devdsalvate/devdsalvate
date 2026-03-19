@@ -8,6 +8,6 @@ Atualmente sou um estudante, em busca de aprender cada vez mais, e buscando me t
 <br><br>
 🌐Contatos:
 <br>
-- Linkedin: https://www.linkedin .com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
+- Linkedin: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 <br>
 - Email: ...
