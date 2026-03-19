@@ -12,7 +12,7 @@
 <br><br>
 📫 Contato:
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
-- 📧 Email: ...
+- 📧 Email: dbsalvate2@gmail.com
 <br>
 ## 🛠️ Tecnologias que uso no dia a dia
 
