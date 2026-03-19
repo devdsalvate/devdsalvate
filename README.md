@@ -14,3 +14,11 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 - 📧 Email: ...
 <br>
+## 🛠️ Tecnologias que uso no dia a dia
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
