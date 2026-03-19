@@ -15,6 +15,7 @@
 - 📧 Email: dbsalvate2@gmail.com
 <br>
 ## 🛠️ Tecnologias que uso no dia a dia
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50"
@@ -26,7 +27,7 @@
   <img align="center" alt="PHP" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-<br>
+<br><br>
 ## 📊 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=tokyonight)
