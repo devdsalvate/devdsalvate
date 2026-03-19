@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Daniel Salvate
 
 💻 Desenvolvedor em formação (Full-Stack)  
-🎯 Focado em: HTML, CSS, JavaScript  
 🚀 Buscando minha primeira oportunidade na área  
 
 ---
