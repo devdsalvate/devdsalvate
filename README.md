@@ -15,8 +15,10 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 - 📧 Email: ...
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdsalvate&layout=compact&theme=radical)
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+### Olá, meu nome é {seu nome}!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
