@@ -11,11 +11,10 @@
 - Git & GitHub
 - Lógica de programação
 <br><br>
-🌐Contatos:
+📫 Contato:
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
+- 📧 Email: ...
 <br>
-- Linkedin: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
-<br>
-- Email: ...
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdsalvate&layout=compact&theme=radical)
