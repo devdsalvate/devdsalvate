@@ -26,4 +26,4 @@
   <img align="center" alt="PHP" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
