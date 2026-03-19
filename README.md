@@ -26,4 +26,4 @@
   <img align="center" alt="PHP" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-![Build Status](https://github.com/user/repositorio/actions/workflows/main.yml/badge.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
