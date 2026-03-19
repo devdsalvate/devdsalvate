@@ -26,4 +26,4 @@
   <img align="center" alt="PHP" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-![GitHub stars](https://img.shields.io/github/stars/user/repositorio)
+![Build Status](https://github.com/user/repositorio/actions/workflows/main.yml/badge.svg)
