@@ -11,3 +11,6 @@ Atualmente sou um estudante, em busca de aprender cada vez mais, e buscando me t
 - Linkedin: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 <br>
 - Email: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdsalvate&layout=compact&theme=radical)
