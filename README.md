@@ -6,6 +6,7 @@
 </div>
 Atualmente sou um estudante, em busca de aprender cada vez mais, e buscando me tornar um desenvolvedor Full-Stack! <br><br>
 # 🌐Contatos:
+<br>
 - Linkedin: https://www.linkedin .com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 <br>
 - Email: ...
