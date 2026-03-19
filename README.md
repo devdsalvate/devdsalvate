@@ -14,3 +14,5 @@ Atualmente sou um estudante, em busca de aprender cada vez mais, e buscando me t
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdsalvate&layout=compact&theme=radical)
+![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white)
