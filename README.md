@@ -5,6 +5,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css3" width="75">
 </div>
 Atualmente sou um estudante, em busca de aprender cada vez mais, e buscando me tornar um desenvolvedor Full-Stack!
+<br><br>
 # 🌐Contatos:
 <br>
 - Linkedin: https://www.linkedin .com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
