@@ -13,7 +13,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 - 📧 Email: dbsalvate2@gmail.com
 <br>
-## 🛠️ Tecnologias que uso no dia a dia
+## 🛠️ Technologies I use in my daily life
 <br>
 
 <div style="display: inline_block"><br>
