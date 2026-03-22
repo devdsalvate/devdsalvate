@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&size=30&vCenter=true&vLeft=true&width=600&lines=Hey+there%2C+I'm+Daniel)
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hey+there,+I'm+Daniel;Full-Stack+Developer;PHP+%7C+React+%7C+Python" />
 
 💻 Full-Stack Developoer in training
 🚀 Looking for my first opportunity in the field
@@ -32,4 +32,3 @@
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=tokyonight)
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hey+there,+I'm+Daniel;Full-Stack+Developer;PHP+%7C+React+%7C+Python" />
