@@ -9,7 +9,7 @@
 - PHP
 - HTML5 e CSS3
 <br><br>
-📫 Contact
+## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 - 📧 Email: dbsalvate2@gmail.com
 <br>
