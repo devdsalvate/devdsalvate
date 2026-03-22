@@ -1,16 +1,16 @@
 # 👋 Olá! Eu sou o Daniel Barbosa Salvate
 
-💻 Desenvolvedor em formação (Full-Stack)  
-🚀 Buscando minha primeira oportunidade na área  
+💻 Desenvolvedor em formação (Full Stack)  
+🚀 Em busca da primeira oportunidade como desenvolvedor
 
 ---
 
 ## 🧠 Atualmente aprendendo
 - JavaScript
 - PHP
-- HTML5 e CSS3
+- HTML e CSS
 <br><br>
-📫 Contato:
+## 📫 Contato:
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 - 📧 Email: dbsalvate2@gmail.com
 <br>
