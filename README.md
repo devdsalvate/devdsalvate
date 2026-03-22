@@ -1,16 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&size=30&vCenter=true&vLeft=true&width=600&lines=Hey+there%2C+I'm+Daniel)
 
-💻 Desenvolvedor em formação (Full-Stack)  
-🚀 Buscando minha primeira oportunidade na área  
+💻 Full-Stack Developoer in training
+🚀 Looking for my first opportunity in the field
 
 ---
 
-## 🧠 Atualmente aprendendo
+## 🧠 Currently Learning
 - JavaScript
 - PHP
 - HTML5 e CSS3
 <br><br>
-📫 Contato:
+📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 - 📧 Email: dbsalvate2@gmail.com
 <br>
@@ -28,7 +28,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 <br><br>
-## 📊 Estatísticas
+## 📊 Statics
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=tokyonight)
