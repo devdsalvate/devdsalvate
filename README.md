@@ -1,20 +1,19 @@
-# 👋 Olá! Eu sou o Daniel Barbosa Salvate
-
-💻 Desenvolvedor em formação (Full Stack)  
-🚀 Em busca da primeira oportunidade como desenvolvedor
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hey+there,+I'm+Daniel;ADS+Student;Always+Learning+New+Technologies" />
+💻 Full-Stack Developoer in training <br>
+🚀 Looking for my first opportunity in the field
 
 ---
 
-## 🧠 Atualmente aprendendo
+## 🧠 Currently Learning
 - JavaScript
 - PHP
-- HTML e CSS
+- HTML5 e CSS3
 <br><br>
-## 📫 Contato:
+## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
 - 📧 Email: dbsalvate2@gmail.com
 <br>
-## 🛠️ Tecnologias que uso no dia a dia
+## 🛠️ Technologies I use in my daily life
 <br>
 
 <div style="display: inline_block"><br>
@@ -28,7 +27,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 <br><br>
-## 📊 Estatísticas
+## 📊 Statics
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=tokyonight)
