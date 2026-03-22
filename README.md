@@ -32,3 +32,4 @@
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=tokyonight)
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hey+there,+I'm+Daniel;Full-Stack+Developer;PHP+%7C+React+%7C+Python" />
