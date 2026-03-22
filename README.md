@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Daniel Barbosa Salvate
+![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF00&size=30&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Daniel)
 
 💻 Desenvolvedor em formação (Full-Stack)  
 🚀 Buscando minha primeira oportunidade na área  
