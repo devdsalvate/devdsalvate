@@ -30,4 +30,4 @@
 ## 📊 Statics
 <br>
 
-https://github-readme-stats-liart-ten-75.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical
+![GitHub stats](https://github-readme-stats-liart-ten-75.vercel.app//api?username=devdsalvate&show_icons=true&theme=radical)
