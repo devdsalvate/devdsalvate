@@ -30,4 +30,4 @@
 ## 📊 Statics
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=tokyonight)
+https://github-readme-stats-liart-ten-75.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical
