@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hey+there,+I'm+Daniel;Always+Learning+New+Technologies" />
-💻 Full-Stack Developoer in training <br>
+💻 Back-End Developoer in training <br>
 🚀 Looking for my first opportunity in the field
 
 ---
