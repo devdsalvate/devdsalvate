@@ -1,33 +1,38 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hey+there,+I'm+Daniel;Always+Learning+New+Technologies" />
-💻 Back-End Developoer in training <br>
-🚀 Looking for my first opportunity in the field
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Hey+there,+I'm+Daniel;Back-End+Developer+in+Training" />
+
+## 👨‍💻 About Me
+💻 Back-End Developer in training  
+🚀 Looking for my first opportunity in tech  
+📚 Always learning new technologies and improving my skills  
 
 ---
 
 ## 🧠 Currently Learning
 - JavaScript
 - PHP
-- HTML5 e CSS3
-<br><br>
-## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/?skipRedirect=true
-- 📧 Email: dbsalvate2@gmail.com
-<br>
-## 🛠️ Technologies I use in my daily life
-<br>
+- HTML5 & CSS3
 
+---
+
+## 🛠️ Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="50"
+  <img align="center" alt="JavaScript" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-<br><br>
-## 📊 Statics
-<br>
 
-![GitHub stats](https://github-readme-stats-liart-ten-75.vercel.app//api?username=devdsalvate&show_icons=true&theme=radical)
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-liart-ten-75.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: [daniel-barbosa-salvate](https://www.linkedin.com/in/daniel-barbosa-salvate-3b79a23b8/)
+- 📧 Email: dbsalvate2@gmail.com
