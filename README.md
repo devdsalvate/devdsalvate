@@ -8,22 +8,23 @@
 ---
 
 ## 🧠 Currently Learning
-- JavaScript
-- PHP
-- HTML5 & CSS3
+  <img src="https://skillicons.dev/icons?i=php,cpp,arduino" />
 
 ---
 
 ## 🛠️ Technologies
+  <img src="https://skillicons.dev/icons?i=html,css,php,javascript" />
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-</p>
 
 ---
+
+
+##💻 IDEs & Tools
+
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" />
+
+
+  ---
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats-liart-ten-75.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical)
