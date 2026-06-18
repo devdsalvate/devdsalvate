@@ -19,7 +19,7 @@
 ---
 
 
-##💻 IDEs & Tools
+## 💻 IDEs & Tools
 
   <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" />
 
