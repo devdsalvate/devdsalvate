@@ -8,12 +8,12 @@
 ---
 
 ## 🧠 Currently Learning
-  <img src="https://skillicons.dev/icons?i=php,cpp,arduino" />
+  <img src="https://skillicons.dev/icons?i=php,c,arduino" />
 
 ---
 
 ## 🛠️ Technologies
-  <img src="https://skillicons.dev/icons?i=html,css,php,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,php" />
 
 
 ---
