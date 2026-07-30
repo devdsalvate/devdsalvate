@@ -129,26 +129,6 @@ My main goals are to:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devdsalvate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdsalvate&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdsalvate&theme=tokyonight&hide_border=true" alt="Daniel's GitHub streak" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
