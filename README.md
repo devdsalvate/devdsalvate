@@ -27,7 +27,6 @@
   ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-liart-ten-75.vercel.app/api?username=devdsalvate&show_icons=true&theme=radical)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdsalvate&bg_color=1a1b27&color=70a5fd&line=00d8ff&point=ffffff&area=true&hide_border=true" alt="Mateus's contribution graph" />
 
 ---
