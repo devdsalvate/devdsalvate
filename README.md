@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Daniel+Salvate!;Back-End+Developer+in+Training;Building+my+future+one+line+at+a+time." alt="Typing SVG" />
+<h1 align="center">Hi, I'm Daniel Salvate 👋</h1>
+<h3 align="center">Back-End Developer in training, focused on PHP and web development</h3>
 
 <br>
 
