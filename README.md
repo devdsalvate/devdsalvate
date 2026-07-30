@@ -21,9 +21,11 @@ I am currently strengthening my programming fundamentals and developing practica
 
 * 🎯 Focused on becoming a **Back-End Developer**
 * 🐘 Currently studying and developing projects with **PHP**
+* 🐍 Currently studying and improving my skills with **Python**
 * 🧠 Improving my programming logic and problem-solving skills
 * ⚙️ Interested in APIs, databases and server-side applications
-* 🔌 Exploring electronics and automation with **Arduino**
+* 🖥️ Familiar with **Windows and Linux environments**
+* 🐧 Interested in Linux systems, customization and development environments
 * 📚 Always looking for new challenges and opportunities to learn
 * 🚀 Searching for my first opportunity in the technology industry
 
@@ -35,10 +37,12 @@ At the moment, I am focusing on:
 
 * Programming logic and algorithms
 * PHP fundamentals
+* Python fundamentals
 * Object-Oriented Programming
 * Back-End application development
 * HTML and CSS integration with PHP
 * Version control using Git and GitHub
+* Linux development environments
 * Practical projects for my portfolio
 * Arduino and basic electronics projects
 
@@ -48,7 +52,7 @@ At the moment, I am focusing on:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=c,arduino" alt="Currently learning technologies" />
+<img src="https://skillicons.dev/icons?i=python,c,arduino,linux" alt="Currently learning technologies" />
 
 </div>
 
@@ -64,6 +68,14 @@ At the moment, I am focusing on:
 
 </div>
 
+### Programming Languages
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c" alt="Python and C" />
+
+</div>
+
 ### Front-End Fundamentals
 
 <div align="left">
@@ -72,11 +84,19 @@ At the moment, I am focusing on:
 
 </div>
 
-### Programming and Electronics
+### Electronics and Hardware
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=c,arduino" alt="C and Arduino" />
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+
+</div>
+
+### Operating Systems
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,windows" alt="Linux and Windows" />
 
 </div>
 
@@ -105,10 +125,12 @@ At the moment, I am focusing on:
 In my GitHub repositories, you will find:
 
 * 🐘 PHP exercises and small systems
+* 🐍 Python studies and programming exercises
 * 🧮 Programming logic challenges
 * 🌐 Web development projects
 * 📝 Projects created during my studies
 * 🔌 Arduino and electronics experiments
+* 🐧 Linux customization and development environment experiments
 * 🚀 My progress as a Back-End Developer
 
 Every project represents another step in my learning journey.
@@ -152,15 +174,5 @@ I am open to connecting with other developers, exchanging knowledge and discover
 <a href="mailto:dbsalvate2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-dbsalvate2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 “Every expert was once a beginner.”
-
-Thank you for visiting my profile! 🚀
 
 </div>
