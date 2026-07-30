@@ -48,7 +48,7 @@ At the moment, I am focusing on:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=php,c,arduino,git,github" alt="Currently learning technologies" />
+<img src="https://skillicons.dev/icons?i=c,arduino" alt="Currently learning technologies" />
 
 </div>
 
