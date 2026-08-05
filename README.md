@@ -114,11 +114,16 @@ At the moment, I am focusing on:
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,composer" alt="Development tools" />
+
+<br>
+
+### 📚 Libraries & Frameworks
+<br>
+
+<img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame"/>
 
 </div>
-
----
 
 ## 📂 What You Will Find Here
 
